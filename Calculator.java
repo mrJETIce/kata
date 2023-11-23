@@ -6,7 +6,6 @@ public class Calculator {
         Scanner scm = new Scanner(System.in);
         String exp=scm.nextLine();
         String[] data;
-        boolean bool;
         char action;
         int output;
 
